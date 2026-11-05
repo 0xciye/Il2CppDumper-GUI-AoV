@@ -1,7 +1,5 @@
 # Il2CppDumper GUI for AoV
 
-![Il2CppDumper GUI](Screenshot.png)
-
 This is a customized **Unity Il2CppDumper GUI** developed based on the original source code by **Perfare**.
 
 ✅ Runs on **Windows**
